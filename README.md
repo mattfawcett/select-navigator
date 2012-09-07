@@ -5,7 +5,7 @@ A Jquery plugin that turns select lists into navigation elements
 
 Usage
 -----
-$('#myselect').selectNavigator();
+    $('#myselect').selectNavigator();
 
 Examples
 --------
